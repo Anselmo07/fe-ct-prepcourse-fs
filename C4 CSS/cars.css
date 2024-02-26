@@ -1,0 +1,36 @@
+
+.busqueda{
+    float: right;
+}
+
+.todo{
+    
+    
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+
+}
+
+.text{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Chicks{
+    width: 400PX ;
+    height: 300PX;
+}
+
+
+.rayo{
+    width: 400PX ;
+    height: 300PX;
+}
+
+.rey{
+    width: 400PX ;
+    height: 300PX;
+}
+
